@@ -1,5 +1,7 @@
 # Project Langevin - プロダクト概要書
+
 Version: 1.0
+
 License: Apache License 2.0
 
 ## 1. 背景とビジョン (Why)
